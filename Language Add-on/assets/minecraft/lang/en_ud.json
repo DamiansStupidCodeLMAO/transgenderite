@@ -1,0 +1,21 @@
+{
+  "advancements.husbandry.netherite_hoe.description": "Use a Transgenderite Ingot to upgrade a Hoe, and then reevaluate your life choices",
+  "advancements.nether.netherite_armor.description": "Get a full suit of Transgenderite armor",
+  "block.minecraft.netherite_block": "Block of Transgenderite",
+  "item.minecraft.netherite_axe": "Transgenderite Axe",
+  "item.minecraft.netherite_boots": "Transgenderite Boots",
+  "item.minecraft.netherite_chestplate": "Transgenderite Chestplate",
+  "item.minecraft.netherite_helmet": "Transgenderite Helmet",
+  "item.minecraft.netherite_hoe": "Transgenderite Hoe",
+  "item.minecraft.netherite_ingot": "Transgenderite Ingot",
+  "item.minecraft.netherite_leggings": "Transgenderite Leggings",
+  "item.minecraft.netherite_pickaxe": "Transgenderite Pickaxe",
+  "item.minecraft.netherite_scrap": "Transgenderite Scrap",
+  "item.minecraft.netherite_shovel": "Transgenderite Shovel",
+  "item.minecraft.netherite_sword": "Transgenderite Sword",
+  "item.minecraft.smithing_template.netherite_upgrade.additions_slot_description": "Add Transgenderite Ingot",
+  "item.minecraft.smithing_template.netherite_upgrade.ingredients": "Transgenderite Ingot",
+  "subtitles.item.armor.equip_netherite": "Transgenderite armor clanks",
+  "trim_material.minecraft.netherite": "Transgenderite Material",
+  "upgrade.minecraft.netherite_upgrade": "Transgenderiteite Upgrade"
+}
